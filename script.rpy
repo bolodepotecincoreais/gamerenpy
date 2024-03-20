@@ -13,14 +13,22 @@ label start:
 
     "Dois irmãos Pisquinha e Husk lutam pela liderança do clã dos lobos"
 
+    show pisca
+
     p "Não quero brigar com você, irmão"
 
     p "Essa luta não faz sentido para mim"
+
+    hide pisca
+
+    show husk
 
     h "Deixa de conversa mole Pisquinha"
 
     h "Isto para mim tem outro nome"
 
     h "Covardia"
+
+    hide husk
 
     return
